@@ -37,3 +37,36 @@ As a Product Data Analyst, I collaborated with cross-functional teams to analyze
 ### Technical Skills:
 - **Tools & Technologies:** SQL (T-SQL), Python (Pandas), Tableau, Power BI
 - **Methodologies:** Data Transformation, Data Cleaning, Data Visualization, Reporting Automation, Cross-Functional Collaboration
+
+## Previous Roles
+
+### Product Data Analyst | Wowso, San Francisco Bay Area
+**June 2018 - Jan 2021**
+
+Conducted thorough analysis of data from multiple sources, including web traffic, mobile app usage, and marketing campaigns, to provide valuable insights into Wowso's business performance and customer behavior.
+
+### Key Achievements:
+- **Cross-Team Collaboration:** Worked closely with Marketing and IT teams to identify and track key market data, commerce statistics, and consumer trends. Presented findings in a clear, organized manner to drive marketing strategies.
+- **Campaign Monitoring:** Created and executed comprehensive measurement and reporting plans for existing and new marketing initiatives, effectively monitoring and evaluating campaign success.
+- **User Behavior Analysis:** Conducted in-depth analysis of online user behavior, including email engagement, subscriptions, retention, and customer journeys. Applied funnel analysis and multi-channel attribution to identify key areas for improvement.
+- **Market Research:** Utilized customer demographic data to analyze preferences, needs, and buying habits, helping to identify potential markets and product demand factors.
+
+### Co-Founder & Product Manager | Technoface, Istanbul, Turkey
+**August 2004 - March 2017**
+
+Technoface is a software development company with over 25 staff members, specializing in creating B2B and B2C applications.
+
+### Key Achievements:
+- **Product Development:** Analyzed customer data and user feedback to guide the design and development of over 20 mobile apps and 30 e-commerce & web projects.
+- **Team Leadership:** Managed a team of 20 members, including UX designers, developers, and designers, to deliver data-driven mobile apps, e-commerce solutions, and web projects.
+- **Successful App Launch:** As the product manager for a corporate mobile app of a major grocery retail chain, coordinated with the business development team to craft the app roadmap and recommended new technologies to the CEO. Led the team to achieve over 4 million downloads with 200K daily active users through strategic, data-driven decisions.
+
+## Education
+
+### Bachelor’s Degree in Computer & Educational Technology
+**Bosphorus University, Istanbul, Turkey**  
+**2004**
+
+Graduated from one of the top two universities in Turkey, specializing in Computer & Educational Technology. The program provided a solid foundation in software development, educational technology, and data analysis, preparing me for a career in tech and data-driven fields.
+
+
