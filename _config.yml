@@ -3,3 +3,18 @@ logo: assest/img/ProfilePicture.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+baseurl: "/"
+url: "https://github.com/saltikg/web"
+
+# Navigation Links
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "Professional Summary"
+    link: "/professional-summary"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
+    
