@@ -1,5 +1,4 @@
 # Gokhan Saltik's GitHub
-![Banner Image](Link to banner)
 
 Hi! I'm Gokhan, a data analyst with a passion for turning data into strategic insights. Here, you'll find a collection of my projects, tools, and contributions.
 
@@ -18,6 +17,6 @@ Hi! I'm Gokhan, a data analyst with a passion for turning data into strategic in
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 📫 Get in Touch
-[LinkedIn]([https://www.linkedin.com/in/gokhansaltik/]) | [Email](mailto:gokhansaltik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gokhansaltik/) | [Email](mailto:gokhansaltik@gmail.com)
 
  
