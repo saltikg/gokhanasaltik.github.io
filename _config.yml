@@ -7,14 +7,4 @@ theme: jekyll-theme-minimal
 baseurl: "/web"  # This should match the repository name if hosted at username.github.io/repository
 url: "https://saltikg.github.io"
 
-# Navigation Links
-navbar:
-  - name: "Home"
-    link: "/"
-  - name: "Resume"
-    link: "/resume"
-  - name: "Projects"
-    link: "/projects"
-  - name: "Contact"
-    link: "/contact"
-    
+
