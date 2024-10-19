@@ -1,13 +1,24 @@
-About
+# Gokhan Saltik's GitHub
+![Banner Image](Link to banner)
 
-Passionate Data Analyst | Power BI | SQL | Data Modeling | ETL | Data Visualization
+Hi! I'm Gokhan, a data analyst with a passion for turning data into strategic insights. Here, you'll find a collection of my projects, tools, and contributions.
 
-As a passionate Data Analyst, I bring over 5 years of experience in data modeling, ETL development, report design, and dashboard development.
+## 🌟 Featured Projects
+- **[Data Visualization Dashboard](Link)**: A Power BI dashboard to visualize marketing performance.
+- **[Customer Segmentation with Python](Link)**: A project on clustering customers based on behavior patterns.
 
-With a solid foundation in Computer Technology and a career that encompasses both software development and product management, I bring a unique perspective to data analysis. My diverse background has equipped me with a versatile skill set, allowing me to approach data analysis from various angles, extract valuable insights, and provide data-driven recommendations.
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](Badge) ![Power BI](Badge) ![Git](Badge)
 
-My expertise lies in leveraging Microsoft Business Intelligence tools such as SQL and Power BI to improve data quality and enable data-driven decision-making.
 
+
+
+## 📫 Get in Touch
+[LinkedIn]([Link](https://www.linkedin.com/in/gokhansaltik/)) | [Email](mailto:gokhansaltik@gmail.com)
+
+
+ 
 Key Skills:
 ▪ Data Analysis
 ▪ Extract, Transform, Load (ETL)
