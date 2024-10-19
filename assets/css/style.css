@@ -1,64 +1,57 @@
-body {
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
     display: flex;
+    height: 100vh;
     flex-direction: column;
-    align-items: center;
-    background-color: #f9f9f9; /* Soft background color */
+}
+
+.layout {
+    display: flex;
+    height: 100vh;
 }
 
 header {
-    width: 100%;
+    writing-mode: vertical-rl; /* Makes the text vertical */
+    text-orientation: mixed;
+    transform: rotate(180deg); /* Rotates text to read top-down */
     background-color: #f8f9fa;
     padding: 10px;
-    box-shadow: 0px 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.1);
+    height: 100%;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-}
-
-nav ul li a:hover {
-    color: #007bff;
+footer {
+    writing-mode: vertical-rl; /* Makes the text vertical */
+    text-orientation: mixed;
+    background-color: #f8f9fa;
+    padding: 10px;
+    box-shadow: -2px 0px 5px rgba(0,0,0,0.1);
+    transform: rotate(180deg); /* Rotates text to read top-down */
+    height: 100%;
 }
 
 .container {
     display: flex;
+    flex: 1;
     flex-direction: row;
-    max-width: 1200px;
-    width: 100%;
-    padding: 20px;
+    align-items: flex-start;
 }
 
 aside {
-    width: 20%;
+    width: 20%; /* Adjust width as needed */
     background-color: #f0f0f0;
     padding: 20px;
-    margin-right: 20px;
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.1);
+    height: 100vh; /* Full height */
 }
 
 main {
-    width: 75%;
+    width: 60%; /* Adjust width as needed */
     padding: 20px;
     background-color: #ffffff;
-    box-shadow: 0px 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
-    border-radius: 5px; /* Smooth edges */
-}
-
-footer {
-    background-color: #f8f9fa;
-    padding: 10px;
-    text-align: center;
-    width: 100%;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    overflow-y: auto; /* Scrollable content */
 }
