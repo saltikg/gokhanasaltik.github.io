@@ -1,10 +1,23 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f8f9fa;
 }
 
 nav ul li {
-    display: inline;
     margin-right: 20px;
 }
 
@@ -15,4 +28,20 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #007bff;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    width: 20%; /* Adjust as needed */
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+main {
+    width: 80%; /* Adjust as needed */
+    padding: 20px;
 }
