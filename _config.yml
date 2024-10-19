@@ -4,8 +4,8 @@ logo: assest/img/ProfilePicture.png
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-baseurl: "/"
-url: "https://github.com/saltikg/web"
+baseurl: "/web"  # This should match the repository name if hosted at username.github.io/repository
+url: "https://saltikg.github.io"
 
 # Navigation Links
 navbar:
