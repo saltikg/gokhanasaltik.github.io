@@ -1,6 +1,4 @@
-About---
-
-h
+About
 
 Passionate Data Analyst | Power BI | SQL | Data Modeling | ETL | Data Visualization
 
