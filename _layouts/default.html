@@ -1,39 +1,17 @@
----
-layout: default
----
-
-{% include header.html %}
-{% include navigation.html %}
-
-<main>
-    {{ content }}
-</main>
-
-{% include footer.html %}
-
-
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {{ content_for :head }}
 </head>
 <body>
-    <!-- Top Navigation Bar -->
-    <header>
-        <nav>
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/professional-summary">Professional Summary</a></li>
-                <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
-                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <!-- Left Menu (Original Theme) -->
+    <!-- Include the custom navigation -->
+    {% include header.html %}
+    
     <div class="container">
+        <!-- Keep original theme's left menu and content -->
         <aside>
             {{ content }}
         </aside>
@@ -41,5 +19,8 @@ layout: default
             {{ content }}
         </main>
     </div>
+    
+    <!-- Include the footer -->
+    {% include footer.html %}
 </body>
 </html>
