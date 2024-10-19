@@ -11,10 +11,12 @@
     {% include header.html %}
     
     <div class="container">
-        <!-- Keep original theme's left menu and content -->
+        <!-- Sidebar for navigation or additional info (if needed) -->
         <aside>
-            {{ content }}
+            {% include sidebar.html %}
         </aside>
+
+        <!-- Main content area -->
         <main>
             {{ content }}
         </main>
