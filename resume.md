@@ -2,10 +2,6 @@
 - [Professional Summary](resume.md)
 - [Projects](readme.md) 
 
-## 📑 Table of Contents
-- [Professional Summary](resume.md)
-- [Projects](readme.md) 
-
 
 ## Professional Summary
 Hi! I'm Gokhan, Senior Data Analyst with over 6 years of experience in driving product growth and enhancing customer engagement. Strong business intuition and a background in marketing and product management allow me to see the big picture and contribute to overall company strategy. Skilled in leveraging SQL, Python, and Tableau to deliver data-driven insights and actionable recommendations that drive business growth and innovation.
