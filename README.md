@@ -1,4 +1,7 @@
 About---
+
+h
+
 Passionate Data Analyst | Power BI | SQL | Data Modeling | ETL | Data Visualization
 
 As a passionate Data Analyst, I bring over 5 years of experience in data modeling, ETL development, report design, and dashboard development.
