@@ -1,6 +1,24 @@
 # Gokhan Saltik's GitHub
 
-Hi! I'm Gokhan, a data analyst with a passion for turning data into strategic insights. Here, you'll find a collection of my projects, tools, and contributions.
+## Professional Summary
+Hi! I'm Gokhan, Senior Data Analyst with over 6 years of experience in driving product growth and enhancing customer engagement. Strong business intuition and a background in marketing and product management allow me to see the big picture and contribute to overall company strategy. Skilled in leveraging SQL, Python, and Tableau to deliver data-driven insights and actionable recommendations that drive business growth and innovation.
+
+## Marketing Data Analyst | Stanford Federal Credit Union, San Francisco Bay Area
+**July 2023 - Present**
+
+As a Marketing Data Analyst, I leverage my expertise in data analytics to drive strategic marketing initiatives and enhance customer engagement. Collaborating closely with the product team, I design and implement data-driven features and campaigns, utilizing advanced analytics to understand customer behaviors and market trends.
+
+### Key Achievements:
+- **Increased Engagement:** Designed and implemented data-driven features and campaigns in collaboration with marketing and growth teams, resulting in a **15% increase in customer engagement**.
+- **Optimized Marketing Spend:** Evaluated customer acquisition cost (CAC) and return on investment (ROI) for marketing campaigns, identifying high-performing channels and pinpointing areas for optimization.
+- **Enhanced Conversion Rates:** Designed and executed A/B tests to optimize marketing campaigns and engagement strategies, leading to a **15% increase in conversion rates**. Utilized statistical significance testing and calculated appropriate sample sizes.
+- **Automated Reporting:** Developed and implemented automated reporting systems by integrating data from tools like **GA4, HubSpot, and social media platforms**, enhancing marketing campaign efficiency by **20%**.
+- **Advanced Data Analysis:** Utilized **SQL and Python** (Pandas, NumPy, Matplotlib) for data analysis, visualization, and workflow automation, boosting marketing efficiency by **20%** and customer engagement by **15%**.
+
+### Technical Skills:
+- **Tools & Technologies:** SQL, Python (Pandas, NumPy, Matplotlib), GA4, HubSpot, Marketing Automation Platforms
+- **Methodologies:** A/B Testing, Statistical Analysis, Customer Segmentation, Data Visualization, Automated Reporting
+
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
