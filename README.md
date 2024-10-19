@@ -19,6 +19,23 @@ As a Marketing Data Analyst, I leverage my expertise in data analytics to drive 
 - **Tools & Technologies:** SQL, Python (Pandas, NumPy, Matplotlib), GA4, HubSpot, Marketing Automation Platforms
 - **Methodologies:** A/B Testing, Statistical Analysis, Customer Segmentation, Data Visualization, Automated Reporting
 
+## Product Data Analyst | Megalabs AI, San Francisco Bay Area
+**April 2021 - July 2023**
+
+As a Product Data Analyst, I collaborated with cross-functional teams to analyze business customer data, resolve data issues, and enhance reporting structures. Utilizing advanced SQL and data visualization tools, I provided stakeholders with valuable insights to drive business decisions.
+
+### Key Achievements:
+- **Advanced Data Analysis:** Leveraged **SQL** (including stored procedures, functions, triggers, and views) to extract, manipulate, and transform data for in-depth analysis and insight generation.
+- **Data Visualization:** Developed customized visualizations and storyboards in **Tableau** to present complex data insights clearly and compellingly to senior leadership and cross-functional teams.
+- **Report Maintenance:** Maintained and updated **Power BI** reports and dashboards on a daily and monthly basis, ensuring they reflected changing business requirements.
+- **Data Cleaning & Transformation:** Utilized **Python** (particularly the Pandas library) to efficiently clean, transform, and process datasets, including text processing and handling missing data.
+- **Enhanced Reporting:** Developed calculated columns, measures, and queries in **Power BI Desktop** to showcase robust data analysis techniques and improve reporting accuracy.
+
+### Technical Skills:
+- **Tools & Technologies:** SQL (T-SQL), Python (Pandas), Tableau, Power BI
+- **Methodologies:** Data Transformation, Data Cleaning, Data Visualization, Reporting Automation, Cross-Functional Collaboration
+
+
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
