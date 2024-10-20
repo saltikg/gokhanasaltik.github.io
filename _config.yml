@@ -1,6 +1,4 @@
-title: Gokhan SALTIK
-logo: assest/img/ProfilePicture.png
-
-baseurl: "/web"  # Use /web since your site is served from this folder 
+baseurl: "/web"  # This is important since your repository is named "web"
 url: "https://saltikg.github.io"
-theme: jekyll-theme-minimal  # Optional, specify if you are using a theme
+theme: jekyll-theme-minimal
+
