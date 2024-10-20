@@ -1,10 +1,6 @@
 title: Gokhan SALTIK
 logo: assest/img/ProfilePicture.png
-#description: text below image
-#show_downloads: true
+
 theme: jekyll-theme-minimal
-
-baseurl: "/web"  # This should match the repository name if hosted at username.github.io/repository
+baseurl: "/d"  # Adjust if your repository is named "d"
 url: "https://saltikg.github.io"
-
-
