@@ -1,35 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    {{ content_for :head }}
 </head>
 <body>
-    <div class="layout">
-        <!-- Left-aligned header -->
-        <header>
-            {% include header.html %}
-        </header>
-
-        <!-- Main container: Sidebar + Main content -->
-        <div class="container">
-            <!-- Sidebar for navigation or additional info (if needed) -->
-            <aside>
-                {% include sidebar.html %}
-            </aside>
-
-            <!-- Main content area -->
-            <main>
-                {{ content }}
-            </main>
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <h1>.Gokhan</h1>
+            <nav>
+                <ul>
+                    <li><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+                    <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                    <li><a href="{{ site.baseurl }}/about">About</a></li>
+                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+                </ul>
+                <button class="cta-button">Say Hello!</button>
+            </nav>
         </div>
+    </header>
 
-        <!-- Right-aligned footer -->
-        <footer>
-            {% include footer.html %}
-        </footer>
+    <!-- Main Content with Sidebar -->
+    <div class="container">
+        <aside class="sidebar">
+            {% include sidebar.html %}
+        </aside>
+        <main>
+            {{ content }}
+        </main>
     </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2024 Gokhan Saltik. All rights reserved.</p>
+    </footer>
 </body>
 </html>
