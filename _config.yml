@@ -1,6 +1,6 @@
 title: Gokhan SALTIK
 logo: assest/img/ProfilePicture.png
 
-theme: jekyll-theme-minimal
-baseurl: "/d"  # Adjust if your repository is named "d"
+baseurl: "/web"  # Use /web since your site is served from this folder
 url: "https://saltikg.github.io"
+theme: jekyll-theme-minimal  # Optional, specify if you are using a theme
